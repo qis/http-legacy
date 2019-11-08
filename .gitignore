@@ -1,0 +1,13 @@
+/*
+.*
+!/include/
+!/res/
+!/src/
+!/.clang-format
+!/.editorconfig
+!/.gitignore
+!/CMakeLists.txt
+!/CONTROL
+!/license.txt
+!/portfile.cmake
+!/readme.md
